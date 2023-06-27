@@ -1,1 +1,1 @@
-# CS50-Curso-Ciencia-Computacao-havard
+# CS50 - Curso Ciencia Computacao havard
